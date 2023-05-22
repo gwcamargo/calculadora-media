@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    color: rgb(232, 223, 223);
+    background-color: rgb(85, 82, 82);
+    border-radius: 10px;
+    padding: 15px;
+    margin: auto;
+    width: max-content;  
+}
+
+input {
+    height: 20px;
+}
+
+label {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    width: 100%;
+    height: 30px;
+    background-color: orangered;
+    color: white;
+    font-size: 15px;
+}
